@@ -2,7 +2,7 @@
   "name": "Game Hug",
   "short_name": "Game Hug",
   "description": "An interactive and fun game app packed with exciting challenges and engaging gameplay.",
-  "start_url": ".",
+  "start_url": "/Game Hug/",
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#1db954",
